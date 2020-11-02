@@ -22,10 +22,13 @@ function macros(){
 	
 	
 	//cards types
-	#macro shoppen 0
-	#macro klaveren 1
-	#macro ruiten 2
-	#macro harten 3
+	#macro notype 0
+	#macro shoppen 1
+	#macro klaveren 2
+	#macro ruiten 3
+	#macro harten 4
+	
+	
 	//cards index
 	#macro joker 0
 	#macro aas 1

@@ -1,10 +1,18 @@
 {
   "resources": [
+    {"id":{"name":"spr_cards_klaveren","path":"sprites/spr_cards_klaveren/spr_cards_klaveren.yy",},"order":0,},
+    {"id":{"name":"spr_cards_harten","path":"sprites/spr_cards_harten/spr_cards_harten.yy",},"order":2,},
     {"id":{"name":"macros","path":"scripts/macros/macros.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
+    {"id":{"name":"spr_cards_shoppen","path":"sprites/spr_cards_shoppen/spr_cards_shoppen.yy",},"order":3,},
+    {"id":{"name":"spr_cards_joker","path":"sprites/spr_cards_joker/spr_cards_joker.yy",},"order":4,},
+    {"id":{"name":"set_card_sprite","path":"scripts/set_card_sprite/set_card_sprite.yy",},"order":2,},
     {"id":{"name":"obj_server","path":"objects/obj_server/obj_server.yy",},"order":0,},
+    {"id":{"name":"spr_cards_back","path":"sprites/spr_cards_back/spr_cards_back.yy",},"order":5,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":1,},
+    {"id":{"name":"spr_cards_ruiten","path":"sprites/spr_cards_ruiten/spr_cards_ruiten.yy",},"order":1,},
     {"id":{"name":"spr_player_box","path":"sprites/spr_player_box/spr_player_box.yy",},"order":1,},
+    {"id":{"name":"obj_card","path":"objects/obj_card/obj_card.yy",},"order":2,},
     {"id":{"name":"recieved_packet","path":"scripts/recieved_packet/recieved_packet.yy",},"order":1,},
     {"id":{"name":"room_server","path":"rooms/room_server/room_server.yy",},"order":0,},
   ],
@@ -39,6 +47,7 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/cards.yy","order":3,"resourceVersion":"1.0","name":"cards","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},

@@ -9,6 +9,10 @@ switch(global.gamestate){
 	
 	case shuffel:
 		//shuffel
+		
+		
+		
+		
 		//stuur kaarten naar spelers
 		
 		var player = ds_list_find_value(socket_list,0)
